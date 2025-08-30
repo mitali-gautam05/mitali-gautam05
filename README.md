@@ -58,7 +58,7 @@ Firebase Auth | Uvicorn | REST APIs
 ### **FinQuest**
 > AI-powered Financial Insights App with Chatbot  
 **Tech:** Flutter | FastAPI | MySQL | OpenAI GPT  
-[Repository Link](https://github.com/mitali-gautam05/FinQuest)
+[Repository Link](https://github.com/mitali-gautam05/FinVengers.git)
 
 </div>
 
