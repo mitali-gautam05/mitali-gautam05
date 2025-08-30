@@ -50,10 +50,6 @@ Firebase Auth | Uvicorn | REST APIs
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitali-gautam05&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/mitali-gautam05" alt="Contribution Calendar" width="100%"/>
-
----
 
 ## 🏗️ Featured Projects
 
