@@ -65,7 +65,7 @@ Firebase Auth | Uvicorn | REST APIs
 ---
 
 ## 🌐 Let's Connect & Collaborate
-Linkedin : - www.linkedin.com/in/mitali-gautam-0317b632
+[Linkedin](www.linkedin.com/in/mitali-gautam-0317b632a)
 
   ### 🚀 "Code is poetry, and every commit tells a story"
 </div>
