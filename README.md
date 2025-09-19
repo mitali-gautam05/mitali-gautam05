@@ -39,17 +39,6 @@ Firebase Auth | Uvicorn | REST APIs
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitali-gautam05&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mitali-gautam05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitali-gautam05&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 ## 🏗️ Featured Projects
 
