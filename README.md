@@ -7,17 +7,17 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🔭 Working on: **AI/ML projects, Flutter + FastAPI apps, and beginner-friendly hackathon challenges.**  
-- 🌱 Learning: **Fundamentals of Python programming, basic Machine Learning concepts, and building small AI/ML projects.**  
-- 👯 Looking to collaborate on: **Open Source Projects in Python, beginner AI/ML, and simple app development.**  
-- 💬 Ask me about: **Python basics, C++ fundamentals, and starting with ML/AI.**  
+-  Working on: **AI/ML projects, Flutter + FastAPI apps, and beginner-friendly hackathon challenges.**  
+-  Learning: **Fundamentals of Python programming, basic Machine Learning concepts, and building small AI/ML projects.**  
+-  Looking to collaborate on: **Open Source Projects in Python, beginner AI/ML, and simple app development.**  
+-  Ask me about: **Python basics, C++ fundamentals, and starting with ML/AI.**  
 - ⚡ Fun fact: **I love experimenting with small projects and turning ideas into working code!**  
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech 
 
 ### 💻 Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ Firebase Auth | Uvicorn | REST APIs
 ---
 
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -46,8 +46,8 @@ Firebase Auth | Uvicorn | REST APIs
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 Linkedin :- (www.linkedin.com/in/mitali-gautam-0317b632a)
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+  ###  "Code is poetry, and every commit tells a story"
 </div>
