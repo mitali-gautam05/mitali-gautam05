@@ -29,19 +29,6 @@
 ### 🗄️ Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 Firebase Auth | Uvicorn | REST APIs
-
----
-
-
-##  Featured Projects
-
-<div align="center">
-
-### **FinQuest**
-> AI-powered Financial Insights App with Chatbot  
-**Tech:** Flutter | FastAPI | MySQL | OpenAI GPT  
-[Repository Link](https://github.com/mitali-gautam05/FinVengers.git)
-
 </div>
 
 ---
