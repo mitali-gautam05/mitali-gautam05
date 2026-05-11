@@ -1,37 +1,54 @@
-# 👩‍💻 Mitali Gautam | BTech Student & Python Developer
-### 🚀 Building the future, one commit at a time
+# 👩‍💻 Mitali Gautam
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/197641371?v=4"/>
-</div>
+### B.Tech Student | Aspiring AI/ML Engineer | Python Developer
+
+Passionate about building intelligent applications and solving real-world problems through technology. Currently exploring Machine Learning, Backend Development, and AI-powered applications while actively contributing to projects and open-source communities.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* C++
+
+### Frameworks & Tools
+
+* FastAPI
+* Flutter
+* REST APIs
+* Uvicorn
+* Firebase Authentication
+
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### Other Tools
+
+* Git & GitHub
+* VS Code
 
 ---
 
-##  Current Focus
+## 📚 Currently Learning
 
--  Working on: **AI/ML projects, Flutter + FastAPI apps, and beginner-friendly hackathon challenges.**  
--  Learning: **Fundamentals of Python programming, basic Machine Learning concepts, and building small AI/ML projects.**  
--  Looking to collaborate on: **Open Source Projects in Python, beginner AI/ML, and simple app development.**  
--  Ask me about: **Python basics, C++ fundamentals, and starting with ML/AI.**  
-- ⚡ Fun fact: **I love experimenting with small projects and turning ideas into working code!**  
-
----
-
-##  Tech 
-
-### 💻 Programming Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-Firebase Auth | Uvicorn | REST APIs
-</div>
+* Machine Learning 
+* Data Analysis 
+* Deep Learning Basics
+* Generative AI Applications
 
 ---
 
-##  Let's Connect & Collaborate
-Linkedin :- (www.linkedin.com/in/mitali-gautam-0317b632a)
-</div>
+## 🌱 Open to Collaborate On
+
+* Beginner-friendly AI/ML Projects
+* Open Source Contributions
+* Python-based Applications
+* Hackathon Projects
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/mitali-gautam-0317b632a](http://www.linkedin.com/in/mitali-gautam-0317b632a)
