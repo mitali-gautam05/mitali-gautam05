@@ -28,6 +28,7 @@
 
 ### 🗄️ Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg)
 Firebase Auth | Uvicorn | REST APIs
 </div>
 
