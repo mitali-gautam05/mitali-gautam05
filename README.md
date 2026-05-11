@@ -29,22 +29,7 @@ Passionate about building intelligent applications and solving real-world proble
 * Git & GitHub
 * VS Code
 
----
 
-## 📚 Currently Learning
-
-* Machine Learning 
-* Data Analysis 
-* Deep Learning Basics
-* Generative AI Applications
-
----
-
-## 🌱 Open to Collaborate On
-
-* Beginner-friendly AI/ML Projects
-* Open Source Contributions
-* Python-based Applications
 * Hackathon Projects
 
 ---
